@@ -1,0 +1,2 @@
+This is a streamlit app about emotional calculator.When you type your emotion, this app will give your feedback based on your emotion.
+Please Pip requirements first and run the whole program. if it not successful at begining, please try one more time.
